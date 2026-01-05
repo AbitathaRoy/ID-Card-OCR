@@ -1,0 +1,10 @@
+src/sheet_config.py
+__pycache__/
+
+data/extracted_text/*
+!data/extracted_text/
+
+data/raw_images/*
+!data/raw_images/
+
+data/volunteer.db

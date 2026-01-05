@@ -1,0 +1,7 @@
+pandas
+requests
+pytesseract
+pillow
+opencv-python
+openpyxl
+flet
