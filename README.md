@@ -21,6 +21,7 @@ Originally designed for **Convoke (TechFest), Cluster Innovation Centre (CIC), U
 
 ## 🗂️ Project Structure
 
+```
 ID-Card-OCR/
 │
 ├── app.py # Flet-based dashboard
@@ -43,6 +44,7 @@ ID-Card-OCR/
 │ └── raw_images/ # Downloaded ID card images
 │
 └── .gitignore
+```
 
 ---
 
@@ -50,8 +52,7 @@ ID-Card-OCR/
 
 These files/directories are **intentionally not tracked** and must be created at runtime:
 
-
-### `src/sheet_config.py`
+`src/sheet_config.py`
 You must create this file manually:
 
 ```python
