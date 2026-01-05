@@ -37,7 +37,7 @@ ID-Card-OCR/
 │ ├── parse.py # Text parsing logic
 │ ├── database.py # SQLite schema + persistence
 │ ├── query.py # Read-only DB queries
-│ └── \_\_init\_\_.py
+│ └── __init__.py
 │
 ├── data/
 │ ├── volunteer.db # SQLite database (generated)
